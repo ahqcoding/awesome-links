@@ -15,3 +15,6 @@ Some links that i found extremely useful.
 [Triangle rasterization in practice](https://fgiesen.wordpress.com/2013/02/08/triangle-rasterization-in-practice/)
 
 [A pixel is not a little square](http://alvyray.com/Memos/CG/Microsoft/6_pixel.pdf)
+
+
+[Assembly Language: Still Relevant Today](http://wilsonminesco.com/AssyDefense/)
