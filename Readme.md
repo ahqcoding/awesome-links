@@ -2,6 +2,9 @@
 
 Some links that i found extremely useful.
 
+
+## Computer Graphics Related
+
 [How do bullets work in video games?](https://www.gamasutra.com/blogs/TristanJung/20191206/355250/How_Do_Bullets_Work_in_Video_Games.php)
 
 [How is motion blur implemented in modern realtime renderers?](https://computergraphics.stackexchange.com/questions/261/how-is-motion-blur-implemented-in-modern-realtime-renderers)
@@ -16,5 +19,16 @@ Some links that i found extremely useful.
 
 [A pixel is not a little square](http://alvyray.com/Memos/CG/Microsoft/6_pixel.pdf)
 
+[Inigo Quilez articles](https://www.iquilezles.org/www/index.htm)
+
+[Ray Marching](http://www.michaelwalczyk.com/blog/2017/5/25/ray-marching)
+
+## Build Tools
+
+[An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
+
+## Misc.
 
 [Assembly Language: Still Relevant Today](http://wilsonminesco.com/AssyDefense/)
+
+[Turn off audio loopback from microphone](https://askubuntu.com/questions/393234/turn-off-audio-loopback-from-microphone)
