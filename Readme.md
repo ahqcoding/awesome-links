@@ -25,6 +25,8 @@ Some links that i found extremely useful.
 
 [Procedural Content Generation in Games](http://pcgbook.com/)
 
+[Virtual Terrain Project](http://vterrain.org/)
+
 ## Build Tools
 
 [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
