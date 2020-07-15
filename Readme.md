@@ -23,6 +23,8 @@ Some links that i found extremely useful.
 
 [Ray Marching](http://www.michaelwalczyk.com/blog/2017/5/25/ray-marching)
 
+[Procedural Content Generation in Games](http://pcgbook.com/)
+
 ## Build Tools
 
 [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
