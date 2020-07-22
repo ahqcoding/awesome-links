@@ -27,6 +27,8 @@ Some links that i found extremely useful.
 
 [Virtual Terrain Project](http://vterrain.org/)
 
+[SIGGRAPH University - Fundamentals Seminar](https://www.youtube.com/watch?v=7Hn5qUmL-Q8&list=PLUPhVMQuDB_aWSKj7L_-3Ot_nxBze_YMy&index=21)
+
 ## Build Tools
 
 [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
